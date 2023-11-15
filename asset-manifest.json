@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.037f3a3c.css",
+    "main.js": "/static/js/main.5c7a6dd9.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/fondiu.png": "/static/media/fondiu.1cb0bdaa15ea86d70f53.png",
+    "static/media/derecha-lleno.png": "/static/media/derecha-lleno.8d81fe597cc8018c0caa.png",
+    "static/media/izquierda-lleno.png": "/static/media/izquierda-lleno.88028dcf31e6cc37da56.png",
+    "static/media/fondo.png": "/static/media/fondo.961a5af2c96c76b496ce.png",
+    "static/media/arriba.png": "/static/media/arriba.d538a1adc04a722bfbd4.png",
+    "static/media/abajo.png": "/static/media/abajo.ef1ae95274590610cb58.png",
+    "static/media/zuki-head.png": "/static/media/zuki-head.ebb35aba6113936f60a4.png",
+    "static/media/izquierda.png": "/static/media/izquierda.964cd9260969a4f099e1.png",
+    "static/media/derecha.png": "/static/media/derecha.1bcb8d199ec04b0a90d8.png",
+    "static/media/his1.jpeg": "/static/media/his1.7f3a47157c2c7044926a.jpeg",
+    "static/media/hist4.jpeg": "/static/media/hist4.478156d76a85bb1506aa.jpeg",
+    "static/media/hist2.jpeg": "/static/media/hist2.9dfdfb80203c35100cce.jpeg",
+    "static/media/hist3.jpeg": "/static/media/hist3.cf71d62c89a5f1e55cec.jpeg",
+    "static/media/zorrochilote.jpg": "/static/media/zorrochilote.36775047600990650ac0.jpg",
+    "static/media/zuki.png": "/static/media/zuki.f784a8af66f7a9122321.png",
+    "service-worker.js": "/service-worker.js",
+    "static/media/manitos.png": "/static/media/manitos.76b856fb0813871dc675.png",
+    "static/media/logout.svg": "/static/media/logout.2dffc996c27965308511a424b88ae5b3.svg",
+    "index.html": "/index.html",
+    "main.037f3a3c.css.map": "/static/css/main.037f3a3c.css.map",
+    "main.5c7a6dd9.js.map": "/static/js/main.5c7a6dd9.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.037f3a3c.css",
+    "static/js/main.5c7a6dd9.js"
+  ]
+}
